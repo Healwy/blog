@@ -1,0 +1,15 @@
+site_name: My Wiki
+site_author: healwy
+# site_description: "you word"
+# site_keyword: "your tag"
+
+
+nav:
+  - Home: index.md
+  - First: web.md
+
+theme:
+  name: cosmo
+  nav_style: dark
+
+copyright: Copyright &copy; 2022, <a href="">Healwy</a>.
