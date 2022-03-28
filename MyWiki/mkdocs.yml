@@ -5,6 +5,9 @@ copyright: Copyright &copy; 2022 Healwy
 nav:
   - 主页: index.md
   - 小工具: web.md
+  - 问题:
+    - Linux:
+      - Ubuntu 18.04 卸载python3后进不去图形界面解决方法: problem/linux/problem1.md
   - 关于: 
     - 关于: about/about.md
 
@@ -23,7 +26,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.top
+    # - navigation.top
     - navigation.expand
     - navigation.indexes
     - toc.follow
