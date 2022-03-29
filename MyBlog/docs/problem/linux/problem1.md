@@ -14,7 +14,7 @@ $ sudo dhclient
 
 ## 2. 设置apt源并更新
 ```
-$ vi /etc/apt/source.list
+$ sudo vi /etc/apt/sources.list
 
 ```
 ```
