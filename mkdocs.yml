@@ -4,10 +4,16 @@ site_author: healwy
 copyright: Copyright &copy; 2022 Healwy
 nav:
   - 主页: index.md
-  - 小工具: 
+  - 软件: 
     - Linux:
+      - 软件: software/linux/introduce.md
       - 命令: 
-        - 网络: tools/linux/cmd/network.md
+        - network: software/linux/cmd/network.md
+        - git/repo: software/linux/cmd/git_and_repo.md
+    - Windows: software/windows/introduce.md
+    - Mac: software/mac/introduce.md
+  - Tips: 
+    - 实用网站: tips/web.md
   - 问题:
     - Linux:
       - Ubuntu 18.04 卸载python3后进不去图形界面解决方法: problem/linux/problem1.md
