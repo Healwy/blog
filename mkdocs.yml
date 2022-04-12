@@ -6,7 +6,9 @@ nav:
   - 主页: index.md
   - 软件: 
     - Linux:
-      - 软件: software/linux/introduce.md
+      - 软件: 
+        - 介绍: software/linux/introduce.md
+        - 投屏软件: software/linux/scrcpy.md
       - 命令: 
         - network: software/linux/cmd/network.md
         - git/repo: software/linux/cmd/git_and_repo.md
