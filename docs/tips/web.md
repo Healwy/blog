@@ -5,4 +5,4 @@
 
 [后端服务网站](https://www.leancloud.cn)
 
-[maven 依赖版本查询网站](https://mvnrepository.com/)
+[maven 库版本查询网站](https://mvnrepository.com/)

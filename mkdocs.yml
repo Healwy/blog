@@ -14,6 +14,9 @@ nav:
     - Mac: software/mac/introduce.md
   - Tips: 
     - 实用网站: tips/web.md
+  - Android:
+    - Lib:
+      - LeakCanary: android/lib/leak_canary.md 
   - 问题:
     - Linux:
       - Ubuntu 18.04 卸载python3后进不去图形界面解决方法: problem/linux/problem1.md
