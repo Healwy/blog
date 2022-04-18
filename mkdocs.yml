@@ -19,6 +19,10 @@ nav:
   - Android:
     - Lib:
       - LeakCanary: android/lib/leak_canary.md 
+  - 编程语言:
+    - c : language/c.md
+    - java : language/java.md
+    - kotlin : language/kotlin.md
   - 问题:
     - Linux:
       - Ubuntu 18.04 卸载python3后进不去图形界面解决方法: problem/linux/problem1.md
