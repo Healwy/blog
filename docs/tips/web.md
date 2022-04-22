@@ -7,4 +7,4 @@
 
 [maven 库版本查询网站](https://mvnrepository.com/)
 
-[PDf 查找网站](https://zh.u1lib.org/book/1)
+[PDf 查找网站](https://zh.u1lib.org/)
